@@ -8,8 +8,8 @@ const IndexPage = () => {
       <Layout pageTitle="Welcome to Inghelbrecht Agency!">
       <p>Lorem ipsum</p>
       <StaticImage
-        alt="randomized unsplash image!"
-        src="../images/learn.png"
+        alt="Een Gatsby astronaut"
+        src="../images/gatsby-astronaut.png"
       />
       </Layout>
     </main>
