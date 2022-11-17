@@ -31,9 +31,7 @@ const IndexPage = ({
               __html: homeFields.description,
             }}
           />
-          <a className={CTA} target="__blank" href={homeFields.callToAction.url}>
-            {homeFields.callToAction.title}
-          </a>
+         
         </article>
         <div>
           <GatsbyImage
